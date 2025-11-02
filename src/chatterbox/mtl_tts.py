@@ -23,6 +23,7 @@ REPO_ID = "ResembleAI/chatterbox"
 # Supported languages for the multilingual model
 SUPPORTED_LANGUAGES = {
   "ar": "Arabic",
+  "ca": "Catalan",
   "da": "Danish",
   "de": "German",
   "el": "Greek",
